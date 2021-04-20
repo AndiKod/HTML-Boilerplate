@@ -1,13 +1,12 @@
 # HTML Boilerplate 2021
 
-Just the basics to get started and see from that point.
-Vanilla first, then Eleventy or more.
+Just the basics to get started, to be completed along the way.
 
 ---
 
-## Links
+## 🧭 Guides & Docs
 
-Some content basic HTML related.
+Document Metadata Documentation
 
 - [{MDN} Metadata](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#document_metadata)
 - [{HTML.com} Metadata](https://html.com/document/metadata/)
@@ -16,48 +15,48 @@ Some content basic HTML related.
 
 ---
 
-## Basic HTML Meta Tags
+## 🧱 Basic HTML Meta Tags
 
-**Must have  &  Why not**\
-...in addition to a good <title>
+**Other tags, Useful or WhyNot**\
+To be sorted over the time.
 ``` html
-<meta name="description" content="150 words"/>
-<meta name="author" content="name, email@hotmail.com">
-
-<meta name="language" content="ES">
+<meta name="language" content="ES"> <!-- Already declared in <html> -->
 <meta name="robots" content="index,follow" />
 <meta name="designer" content="">
 <meta name="copyright" content="">
 <meta name="reply-to" content="email@hotmail.com">
 ```
-
 **Situational**\
 Can bring something, but it depends on your website
 ``` html
-<meta name="subject" content="your website's subject">
-<meta name="copyright"content="company name">
-<meta name="revised" content="Sunday, July 18th, 2010, 5:15 pm" />
-<meta name="abstract" content="">
 <meta name="topic" content="">
 <meta name="summary" content="">
-<meta name="Classification" content="Business">
+<meta name="category" content="">
+
+<meta name="copyright"content="">
 <meta name="owner" content="">
+<meta name="revised" content="Date" />
+<meta name="Classification" content="Business">
+
 <meta name="url" content="http://www.websiteaddrress.com">
 <meta name="identifier-URL" content="http://www.websiteaddress.com">
 <meta name="directory" content="submission">
-<meta name="category" content="">
+
 <meta name="coverage" content="Worldwide">
 <meta name="distribution" content="Global">
 <meta name="rating" content="General">
 <meta name="revisit-after" content="7 days">
+
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 ```
 **Almost deprecated**\
-Can be ommitted
+Can be omitted
 ``` html
 <meta name="keywords" content="your, tags"/>
+<meta name="abstract" content="">
+<meta name="subject" content="">
 ```
 
 ## OpenGraph Meta Tags

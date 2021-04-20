@@ -1,0 +1,19 @@
+/* Font (see https://fonts.google.com) */
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+
+  background: #6e28d9;
+  color: rgb(246, 245, 246);
+}
+
+h1 {
+  color: rgb(211, 184, 205);
+  font-size: 4rem;
+  font-family: "Carter One";
+  text-shadow: 1px 1px 1px #5f065b;
+}
