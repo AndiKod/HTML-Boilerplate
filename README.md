@@ -9,6 +9,10 @@ Vanilla first, then Eleventy or more.
 
 Some content basic HTML related.
 
+- [{MDN} Metadata](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#document_metadata)
+- [{HTML.com} Metadata](https://html.com/document/metadata/)
+- [{W3.org} Metadata](https://www.w3.org/TR/2016/WD-html51-20160310/document-metadata.html)
+
 
 ---
 
@@ -212,10 +216,4 @@ Use custom meta tags to store data that you need in javascript, instead of hard-
 <link media="only screen and (max-device-width: 480px)" href="http://wordpress.org/style/iphone.css" type="text/css" rel="stylesheet" />
 ```
 
-## Other Resources
-
-- [Dublic Core Meta Tags](http://www.seoconsultants.com/meta-tags/dublin/)
-- [Apple Meta Tags](http://developer.apple.com/safari/library/documentation/appleapplications/reference/safarihtmlref/articles/metatags.html)
-- [OpenGraph Meta Tags](http://opengraphprotocol.org/)
-- [Link Tag Meaning](http://intertwingly.net/wiki/pie/LinkTagMeaning)
-- [Google Chrome HTML5 Tags](http://www.html5rocks.com/)
+### Other Resources
