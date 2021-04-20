@@ -1,7 +1,8 @@
 # HTML Boilerplate
 
 Just the basics to get started, to be completed along the way. \
-Valid vanilla HTML & CSS, 100% Lighthouse *(obviously)*.
+Valid vanilla HTML & CSS, 100% Lighthouse.\
+[https://html-boilerplate.netlify.app/](https://html-boilerplate.netlify.app/)
 
 ---
 
