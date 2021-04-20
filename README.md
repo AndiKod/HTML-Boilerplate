@@ -6,8 +6,8 @@ Valid vanilla HTML & CSS, 100% Lighthouse.\
 
 ---
 
-## 🧱 The Tags and the rest
+## 🧱 The Tags and the rest 
 
-- [https://htmlhead.dev/](htmlhead.dev) > A free guide to HTML5 <head> elements.
+- [htmlhead.dev](https://htmlhead.dev/) > A free guide to HTML5 <head> elements.
 
-- [https://github.com/diegocard/awesome-html5](awesome-html5) > The mega-list of curated links.
+- [awesome-html5](https://github.com/diegocard/awesome-html5) > The mega-list of curated links.
