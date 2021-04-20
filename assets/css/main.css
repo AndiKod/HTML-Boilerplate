@@ -4,16 +4,38 @@
 body {
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center; 
 
   background: #6e28d9;
-  color: rgb(246, 245, 246);
-}
-
-h1 {
   color: rgb(211, 184, 205);
-  font-size: 4rem;
+}
+h1 {
+  font-size: 2rem;
   font-family: "Carter One";
   text-shadow: 1px 1px 1px #5f065b;
+}
+a {
+  font-family: sans-serif;
+  color: rgb(195, 144, 184);
+  text-decoration: none;
+}
+a:hover {
+  color:azure;
+  text-decoration: underline;
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  h1 {
+    font-size: 4rem;
+  }
 }
