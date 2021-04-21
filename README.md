@@ -11,3 +11,6 @@ Valid vanilla HTML & CSS, 100% Lighthouse.\
 - [htmlhead.dev](https://htmlhead.dev/) > A free guide to HTML5 <head> elements.
 
 - [awesome-html5](https://github.com/diegocard/awesome-html5) > The mega-list of curated links.
+
+
+...I'll maybe drop here some direct links related to what tags I have in the Boilerplate "out of the box", as a quick reference. 
