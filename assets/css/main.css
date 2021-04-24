@@ -2,15 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
 
 body {
-  height: 100vh;
   display: flex;
+  height: 100vh;
   flex-direction: column;
-  justify-content: center;
-  align-items: center; 
+  justify-content: space-between;
+  align-items: center;
 
   background: #6e28d9;
-  color: rgb(211, 184, 205);
+  color: azure;
 }
+main {
+  text-align: center;
+}
+
 h1 {
   font-size: 2rem;
   font-family: "Carter One";
@@ -18,7 +22,7 @@ h1 {
 }
 a {
   font-family: sans-serif;
-  color: rgb(195, 144, 184);
+  color: lightgray;
   text-decoration: none;
 }
 a:hover {
